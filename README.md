@@ -2,6 +2,8 @@
 
 [Simple Sidebar](http://startbootstrap.com/template-overviews/simple-sidebar/) is an off canvas sidebar navigation template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
+This was my first project from my first hackathon at HackRU 2015. It's not special but I keep it pinned to show myself my own growth.
+
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
